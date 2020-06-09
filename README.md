@@ -1,10 +1,10 @@
-## SDG Assignment #2
+# SDG Assignment #2
 
-## 01 - 02 - Variables #2
+# 01 - 02 - Variables #2
 
 # my_1st_dotnet_app
 
-# Let's get started
+## Let's get started
 
 Today, we are starting our journey into development. This journey has to start somewhere. For this assignment, you will be making a program that demonstrates some programming fundamentals. 
 
